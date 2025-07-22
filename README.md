@@ -23,7 +23,7 @@
 
 ### 🚀 Current Projects
 - 🛠️ Building: [StrayVibes Dev](https://github.com/StrayVibes)  
-- ✉️ Contact: **[support@strayvibes.dev](mailto:support@strayvibes.dev)**  
+- ✉️ Contact: **[support@neko-cli.com](mailto:support@neko-cli.com)**  
 
 ---
 
