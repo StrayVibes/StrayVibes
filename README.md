@@ -38,7 +38,7 @@
   <a href="https://codesandbox.com/strayvibes" target="_blank">
     <img src="https://img.shields.io/badge/CodeSandbox-%23000000.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="CodeSandbox" />
   </a>
-  <a href="https://fb.com/strayvibes" target="_blank">
+  <a href="https://fb.com/thomasgarau2002" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://discord.gg/NPa6DtPtMU" target="_blank">
